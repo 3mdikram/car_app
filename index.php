@@ -28,7 +28,7 @@ include('config.php');
                   <h3 class="card-title">Card Application Form</h3>
                 </div>
                 <div class="card-body">
-                  <button class="btn btn-primary" id="modelopens"><i class="fa fa-plus-circle" aria-hidden="true"></i> Add New User</button>
+                  <button class="btn btn-primary" id="modelopens"><i class="bi bi-plus-circle-fill"></i> Add New User</button>
                   
                 </div>
               </div>
